@@ -1,7 +1,12 @@
-- 👋 Привет, я Андрей Садохин
-- 👀 Меня интересует создание мобильных приложений, Интернета вещей, автоматизация процессов
-- 🌱 В настоящее время я изучаю: создание мобильных приложений на FlutterFlow/Flutter/Dart; базы данных; Python для анализа данных, нейронные сети, создание ботов.
-- 💞️ Я хочу сотрудничать в создании новых продуктов для бизнеса и людей.
-- 📫 Как со мной связаться https://t.me/AnderSad
-- 😄 Местоимения: ...
-- ⚡ Забавный факт: ...
+- 👋 Hi, I'm Andrey Sadokhin
+- 👀 I'm interested in creating mobile applications, the Internet of Things, process automation
+- 🌱 I'm currently studying: creating mobile applications on FlutterFlow/Flutter /Dart; databases; Python for data analysis, neural networks, creating bots.
+- 💞️ I want to collaborate in creating new products for businesses and people.
+- 📫 How to contact me https://t.me/AnderSad
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+AnderSad1973/AnderSad1973 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
